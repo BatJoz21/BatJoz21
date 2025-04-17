@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BatJoz21
-- 👀 I’m interested in playing video games, martial arts, and game development
-- 🌱 I’m currently learning game development
+- 👀 I’m interested in software and game development
+<!--- - 🌱 I’m currently learning game development
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
